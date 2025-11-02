@@ -1,0 +1,50 @@
+# ==============================
+# UFC FIGHT PREDICTION APP
+# ==============================
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Large binary files
+*.pkl
+*.h5
+*.joblib
+*.sav
+large_dataset.csv
+
+# Logs and outputs
+*.log
+*.bak
+*.tmp
+
+# IDE and editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup or temp files
+*~
+*.swp
+*.lock
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+
+
