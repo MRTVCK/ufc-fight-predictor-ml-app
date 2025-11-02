@@ -68,8 +68,7 @@ Below are screenshots comparing **the model’s prediction** vs **the official U
 The model achieved **a perfect prediction** — matching the winner, round, and fight method exactly.
 
 #### Screenshots:
-![UFC Official Result](images/ufc_result.png)
-![App Prediction Screenshot](images/app_prediction.png)
+[App Prediction Screenshot](images/app_prediction.png)](https://github.com/MRTVCK/CAPSTONE_UFC/issues/1)
 
 ---
 
