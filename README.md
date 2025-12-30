@@ -65,8 +65,10 @@ Below are screenshots comparing **the model’s prediction** vs **the official U
 The model achieved **a perfect prediction** — matching the winner, round, and fight method exactly.
 
 #### Screenshots:
-(https://github.com/MRTVCK/ufc-fight-predictor-ml-app/screenshots/Official_ufcfight_google)
-(https://github.com/MRTVCK/ufc-fight-predictor-ml-app/screenshots/app_predictions)
+![App Predictions](screenshots/app_predictions.png)
+![Official UFC Result](screenshots/Official_ufcfight_google.png)
+![Stat Comparison](screenshots/stat_comparison.png)
+![Pie Chart](screenshots/piechart.png)
 ---
 
 ### 🎮 App Preview
@@ -92,7 +94,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 3️⃣ Run the app
-python Final_UFC_APP_CAPSTONE.py
+python app.py
 
 4️⃣ Open in browser
 http://127.0.0.1:7860/
