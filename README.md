@@ -65,8 +65,8 @@ Below are screenshots comparing **the model’s prediction** vs **the official U
 The model achieved **a perfect prediction** — matching the winner, round, and fight method exactly.
 
 #### Screenshots:
-![App Predictions](screenshots/app_predictions.png)
 ![Official UFC Result](screenshots/Official_ufcfight_google.png)
+![App Predictions](screenshots/app_predictions.png)
 ![Stat Comparison](screenshots/stat_comparison.png)
 ![Pie Chart](screenshots/piechart.png)
 ---
