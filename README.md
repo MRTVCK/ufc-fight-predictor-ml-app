@@ -85,7 +85,7 @@ The model achieved **a perfect prediction** — matching the winner, round, and 
 ```bash
 1️⃣ Clone the repository
 git clone https://github.com/MRTVCK/ufc-fight-predictor-ml-app.git
-cd ufc-fight-predictor
+cd ufc-fight-predictor-ml-app
 
 2️⃣ Create a virtual environment and install dependencies
 python3 -m venv venv
