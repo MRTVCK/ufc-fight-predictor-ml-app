@@ -20,7 +20,7 @@ warnings.filterwarnings("ignore")
 
 # === CONFIGURATION ===
 script_dir = os.path.dirname(os.path.abspath(__file__))
-dataset_csv = os.path.join(script_dir, "large_dataset.csv")
+dataset_csv = os.path.join(script_dir, "data", "large_dataset.csv")
 
 # === DATA PREP ===
 def load_and_prepare_data():
