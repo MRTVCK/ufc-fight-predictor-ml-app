@@ -65,7 +65,8 @@ Below are screenshots comparing **the model’s prediction** vs **the official U
 The model achieved **a perfect prediction** — matching the winner, round, and fight method exactly.
 
 #### Screenshots:
-(https://github.com/MRTVCK/CAPSTONE_UFC/issues/1)
+(https://github.com/MRTVCK/ufc-fight-predictor-ml-app/screenshots/Official_ufcfight_google)
+(https://github.com/MRTVCK/ufc-fight-predictor-ml-app/screenshots/app_predictions)
 ---
 
 ### 🎮 App Preview
@@ -81,7 +82,7 @@ The model achieved **a perfect prediction** — matching the winner, round, and 
 ### 🧰 Installation & Usage
 ```bash
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/ufc-fight-predictor.git
+git clone https://github.com/MRTVCK/ufc-fight-predictor-ml-app.git
 cd ufc-fight-predictor
 
 2️⃣ Create a virtual environment and install dependencies
