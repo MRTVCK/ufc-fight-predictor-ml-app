@@ -1,6 +1,3 @@
-# CAPSTONE_UFC
-Fullstack Academy Final Capstone for Destin Tucker
-
 # 🥋 UFC Fight Prediction App
 
 ### 🎯 Overview
